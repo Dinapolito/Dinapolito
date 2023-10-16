@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dinapolito (nico) abd i m new un python.
+- 👋 Hi, I’m @Dinapolito (nico) and i m new in python.
 -  i ve always work in the security field but i ve break my back badly and can do my job anymore.
 -  So i give me a challenge and try to become python developper.
 -  Any help,tips,advices are more than welcome. 
