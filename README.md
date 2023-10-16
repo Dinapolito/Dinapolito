@@ -2,7 +2,7 @@
 -  i ve always work in the security field but i ve break my back badly and can do my job anymore.
 -  So i give me a big challenge and try to become python developper.
 -  Any help,tips,advices are more than welcome. 
-- 👀 I’m interested in learning and progress in python developpement.
+- 👀 I’m interested in learning and progress in python or other programing languages developpement.
 - i known the base python but im looking to progress.
 - 🌱 I’m currently learning python,cybersecurity,linux and network
 - 💞️ I’m looking to collaborate on everything that make me progress or give me new knownledge,experience and can make me progress.
